@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(5, 5, 31);
+}
+
+
+#ref{
+
+text-align:center;
+
+text-align: center;
+background-color:rgb(167, 84, 98);
+
+width: 200px;
+
+}
+
+input[type="button"]
+{
+background-color:rgb(167, 84, 98);
+color: white;
+border: solid black 2px;
+width: 100px;
+height: 100px;
+font-size: 19px;
+
+}
+
+input[type="text"]
+{
+background-color:white;
+border: solid black 2px;
+width: 200px;
+
+}
+#result{
+    font-weight: bold;
+  
+    font-size: 25px;
+}
